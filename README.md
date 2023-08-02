@@ -12,7 +12,7 @@ This is a Minecraft data pack that tweaks crafting recipes for wooden blocks bec
 
 ## 3. Installation
 1. Extract the zip file and copy it.
-2. Locate your Minecraft files (Windows + R -> ```Roaming``` -> ```.minecraft``` or the launcher you're using).
+2. Locate your Minecraft files (Windows + R -> ```appdata``` -> ```Roaming``` -> ```.minecraft``` or the launcher you're using).
 4. Open ```saves``` -> The world you want to use -> ```datapacks```.
 5. Paste the copied file into ```datapacks``` then open Minecraft and play!
 
